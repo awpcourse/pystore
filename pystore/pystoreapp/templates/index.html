@@ -1,5 +1,15 @@
 {% extends "main_template.html" %}
 
 {% block content %}
-Test
+
+<h1> Products </h1>
+<hr/>
+{% for product in products %}
+<a href="{% url 'product_view' pk=product.pk %}"><h2>{{ product.name }}</h2></a>
+    <br/>
+    {{ product.description }} </br>
+
+    Price: ${{ product.price }} <br/>
+
+    {% endfor %}
 {% endblock %}

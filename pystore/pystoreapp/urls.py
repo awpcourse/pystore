@@ -15,7 +15,6 @@ urlpatterns = [
     # url(r'^logout/$', '' , name='logout'),
     # url(r'^userpanel/(?P<pk>\d+)$', '' , name='userpanel'),
     url(r'^product/(?P<pk>\d+)/$', views.product_view, name='product_view'),
-    url(r'^products/$', views.products_view, name='products_view'),
     url(r'^checkout/$', views.checkout, name='checkout'),
 
 

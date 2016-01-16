@@ -12,11 +12,12 @@ from pystoreapp.forms import UserLoginForm
 
 def home(request):
     if request.method == 'GET':
-        nume_var = "Mama are mere"
-        context = {'nume' : nume_var}
         form = UserLoginForm()
+
+        products = Product.objects.all()
         context = {
             'form': form,
+            'products' : products
         }
         return render(request, 'index.html', context)
 
