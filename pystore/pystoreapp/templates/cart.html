@@ -1,0 +1,38 @@
+{% extends "main_template.html %}
+
+{% block content %}
+
+    <table>
+        <tr>
+            <td>
+                Product Name
+            </td>
+            <td>
+                Price
+            </td>
+            <td>
+                Quantity
+            </td>
+            <td>
+                Total Price
+            </td>
+        </tr>
+        {% for product in products %}
+        <td>
+            {{ product.name }}
+        </td>
+        <td>
+            {{ product.price }}
+        </td>
+        <td>
+            {{ products_dict[product.id] }}
+        </td>
+        <td>
+            {{ product.price * products_dict[product.id] }}
+        </td>
+        {% end for %}
+    </table>
+
+    <a href="{% url 'checkout' %}">Checkout</a>
+
+{& end block %}
