@@ -1,0 +1,17 @@
+{% extends 'main_template.html' %}
+
+{% block content %}
+
+<h2>{{ product.name }}</h2>
+
+{{ product.description }}
+
+    Price: ${{ product.price }}
+
+    <form action="{% url 'product_view' product.id %}" method="post">
+    {% csrf_token %}
+        <input type="submit" value="Add To Card" />
+
+    </form>
+{{ request.session.cart }}
+{% endblock %}
