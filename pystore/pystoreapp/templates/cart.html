@@ -1,38 +1,54 @@
-{% extends "main_template.html %}
+{% extends "main_template.html" %}
 
 {% block content %}
 
-    <table>
+    <table class="table table-hover">
+    <thead>
         <tr>
-            <td>
+            <th>
                 Product Name
-            </td>
-            <td>
+            </th>
+            <th>
                 Price
-            </td>
-            <td>
+            </th>
+            <th>
                 Quantity
-            </td>
-            <td>
+            </th>
+            <th>
                 Total Price
-            </td>
+            </th>
         </tr>
-        {% for product in products %}
-        <td>
-            {{ product.name }}
-        </td>
-        <td>
-            {{ product.price }}
-        </td>
-        <td>
-            {{ products_dict[product.id] }}
-        </td>
-        <td>
-            {{ product.price * products_dict[product.id] }}
-        </td>
-        {% end for %}
+        </thead>
+
+        {% if ok %}
+            {% for product in products %}
+                <tr>
+                    <td>
+                        {{ product.name }}
+                    </td>
+                    <td>
+                        {{ product.price }}
+                    </td>
+                    <td>
+                        {{ product.quantity }}
+                    </td>
+                    <td>
+                        {{ product.products_total }}
+                    </td>
+                </tr>
+            {% endfor %}
+        {% endif %}
     </table>
 
-    <a href="{% url 'checkout' %}">Checkout</a>
+    {% if ok %}
+    <p> Total: ${{ total }} </p>
+    {% else %}
+        You don't have any products in your cart.
+    {% endif %}
 
-{& end block %}
+
+    {% if total > 0 %}
+        <a href="{% url 'checkout' %}">Checkout</a>
+    {% endif %}
+
+{% endblock %}

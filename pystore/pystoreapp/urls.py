@@ -16,6 +16,7 @@ urlpatterns = [
     # url(r'^userpanel/(?P<pk>\d+)$', '' , name='userpanel'),
     url(r'^product/(?P<pk>\d+)/$', views.product_view, name='product_view'),
     url(r'^checkout/$', views.checkout, name='checkout'),
+    url(r'^cart/$', views.cart_view, name='cart'),
 
 
 ]

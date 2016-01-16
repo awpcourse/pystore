@@ -70,7 +70,7 @@ class Product(models.Model):
 class OrderedProduct(models.Model):
 
     order = models.ForeignKey(Order, related_name='ordered_products')
-    product = models.OneToOneField(Product)
+    product = models.ForeignKey(Product)
     quantity = models.IntegerField()
 
     def __unicode__(self):
