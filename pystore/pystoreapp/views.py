@@ -34,7 +34,11 @@ def home(request):
 @login_required
 def profileDetails(request, pk):
     profile = UserProfile.objects.get(pk=pk)
-    return redirect('profile', pk=pk)
+    context = {
+        'profile': profile
+
+    }
+    return render(request, 'profile.html', context)
 
 
 def logout_view(request):

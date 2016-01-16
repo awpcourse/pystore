@@ -36,7 +36,7 @@
                 <li>
 
                     {% if user.is_authenticated %}
-                        <a href="#"> {{ user.first_name}} &nbsp; {{user.last_name}}  </a>
+                        <a href="{% url 'profile' user.pk %}"> {{ user.first_name}} &nbsp; {{user.last_name}}  </a>
                         <li><a href="{% url 'logout' %}"><span class="glyphicon glyphicon-user"> Log out </span></a></li>
 
                     {% else %}
