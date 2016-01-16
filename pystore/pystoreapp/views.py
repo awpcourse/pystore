@@ -7,6 +7,7 @@ from django.views.generic.edit import UpdateView, DeleteView
 
 from pystoreapp.models import Product
 from pystoreapp.models import UserProfile
+from pystoreapp.models import Order
 from pystoreapp.forms import UserLoginForm
 
 def home(request):
@@ -49,37 +50,38 @@ def logout_view(request):
     return redirect('index')
 
 
-
-
-
-
-
-
-
 def product_view(request, pk):
+    product = Product.objects.get(pk=pk)
     if request.method == 'GET':
-        product = Product.objects.get(pk=pk)
-        context = {'product' : product}
+        context = {'product' : product, 'page_title': product.name}
         return render(request, 'product_view.html', context)
     elif request.method == 'POST':
-        #cart = request.session['cart'];
-        # import pdb; pdb.set_trace()
-        #request.session['card'] = dict()
+
         if 'cart' in request.session:
             if pk in request.session['cart']:
-                print "+1"
 
                 request.session['cart'][pk] += 1
-                print request.session['cart'][pk]
             else:
-                print "new"
+
                 request.session['cart'][pk] = 1
         else:
             request.session['cart'] = {
                 pk: 1,
             }
-            print "new_cart"
+
 
         product = Product.objects.get(pk=pk)
-        context = {'product' : product}
+        context = {'product' : product, 'added': True, 'page_title': product.name }
         return render(request, 'product_view.html', context)
+
+def checkout(request):
+    # if not request.session.total:
+    #     redirect('cart')
+    if request.method == 'POST':
+        shipping_address = request.POST['shipping_address']
+        billing_address = request.POST['billing_address']
+        order = Order(user=UserProfile.objects.get(pk=request.user.id), shipping_address=shipping_address, billing_address=billing_address, status=0, total=0.0)
+        order.save()
+
+    context = {'page_title': 'Checkout'}
+    return render(request, 'checkout.html', context)

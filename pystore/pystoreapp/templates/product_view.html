@@ -2,6 +2,15 @@
 
 {% block content %}
 
+{% if added %}
+
+    <div class="alert alert-success">
+    <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+    <strong>Success!</strong> The product has been added to your cart.
+  </div>
+
+{% endif %}
+
 <h2>{{ product.name }}</h2>
 
 {{ product.description }}
@@ -13,5 +22,4 @@
         <input type="submit" value="Add To Card" />
 
     </form>
-{{ request.session.cart }}
 {% endblock %}
