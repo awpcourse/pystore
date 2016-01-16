@@ -2,11 +2,617 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a4136b2-cccf-4432-b8e3-f0ec287dc06e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip-7.1.2.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/METADATA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/RECORD.jws" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip-7.1.2.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/RECORD" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip-7.1.2.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/WHEEL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/cacert.pem" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/distutils/distutils.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip-7.1.2.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/metadata.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip-7.1.2.dist-info/pbr.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/pydist-schema.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/script (dev).tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/script.tmpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test-1.0-py2.py3-none-win32.whl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/zip-safe" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystoreapp/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip-7.1.2.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/DESCRIPTION.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/Python-ast.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/Python.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/UserDict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/packaging/__about__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystore/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystoreapp/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystoreapp/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/distutils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/_markerlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/_markerlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/colorama/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/serializer/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/trie/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/lockfile/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/packaging/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/progress/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/compat/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/models/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/operations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/req/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/utils/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/vcs/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pkg_resources/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pkg_resources/_vendor/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/signatures/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/complex-dist/complexdist/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/simple.dist/simpledist/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/tool/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/__main__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/_abcoll.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/filters/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treebuilders/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treewalkers/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/trie/_base.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/_collections.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/packaging/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname/_implementation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/packaging/_structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/_weakrefset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/abc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/abstract.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Scripts/activate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Scripts/activate.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Scripts/activate" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Scripts/activate_this.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/adapters.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/alias.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/aliases.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/colorama/ansi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/colorama/ansitowin32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/api.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/utils/appdirs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/archive.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/archive_util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/ascii.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/asdl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/ast.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/auth.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/progress/bar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/base64_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/basecommand.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/baseparser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/vcs/bazaar.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/bdist_egg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/bdist_rpm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/bdist_wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/bdist_wininst.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/big5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/big5hkscs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/big5prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/bitset.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/boolobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/bufferobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/utils/build.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/build_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/build_py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/bytearrayobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/bytes_methods.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/bytesobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/bz2_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/cStringIO.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/cellobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/certs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/ceval.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardetect.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/chardistribution.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/charmap.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/charsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/classobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/cmdoptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/cobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/code.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/codecs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/codecs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/codingstatemachine.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/compile.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/completion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/complexobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/connection.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/connectionpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/cookies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/copy_reg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/progress/counter.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp037.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1006.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1026.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1140.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1250.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1251.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1252.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1253.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1254.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1255.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1256.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1257.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp1258.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp424.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp437.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp500.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp720.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp737.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp775.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp850.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp852.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp855.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp856.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp857.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp858.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp860.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp861.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp862.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp863.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp864.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp865.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp866.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp869.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp874.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp875.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp932.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp949.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/cp949prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/cp950.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/database.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/datetime.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/trie/datrie.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Scripts/deactivate.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/decorator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/dependency_links.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/depends.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/utils/deprecation.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/descrobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/develop.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/compat/dictconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/dictobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/dist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/signatures/djbec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/download.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/dtoa.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/easy_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/easy_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/signatures/ed25519py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/egg2wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/egg_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/eggnames.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip-7.1.2.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/entry_points.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/enumobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/errcode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/escprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/escsm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/euc_jis_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/euc_jisx0213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/euc_jp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/euc_kr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/eucjpprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/euckrprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/euctwprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/eval.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/exceptions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/extension.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/fields.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/fileobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/filepost.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/utils/filesystem.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/floatobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/fnmatch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystoreapp/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/frameobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/freeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/operations/freeze.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/funcobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/gb18030.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/gb2312.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312freq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/gb2312prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/gbk.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/genericpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/genobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshistream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/vcs/git.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/graminit.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/grammar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/headers.dist/header.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/headers.dist/headersdist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/hebrewprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/help.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/progress/helpers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/hex_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/hooks.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/hp_roman8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/serializer/htmlserializer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/hz.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/idna.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/ihatexml.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/import.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystoreapp/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/models/index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/colorama/initialise.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/inputstream.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/install_egg_info.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/install_lib.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/install_scripts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/intobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/intrcheck.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/ipaddress.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso2022_jp.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso2022_jp_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso2022_jp_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso2022_jp_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso2022_jp_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso2022_jp_ext.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso2022_kr.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_10.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_11.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_14.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_15.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_5.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_6.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/iso8859_9.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/iterobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/jisfreq.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/johab.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/jpcntx.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/signatures/keys.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/koi8_r.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/koi8_u.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/langbulgarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/langcyrillicmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/langgreekmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhebrewmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/langhungarianmodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/langthaimodel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/latin1prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/latin_1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/launcher manifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/lib2to3_ex.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/linecache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/lockfile/linklockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/filters/lint.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/listobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/locale.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/locations.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/locators.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/utils/logging.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/longintrepr.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/longobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treewalkers/lxmletree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_arabic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_centeuro.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_croatian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_cyrillic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_farsi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_greek.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_iceland.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_latin2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_roman.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_romanian.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mac_turkish.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystoreapp/templates/main_template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/manifest.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/_markerlib/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/_markerlib/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/markers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/marshal.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/mbcs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/mbcssm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/memoryobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/vcs/mercurial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/metadata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/metadata.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/metagrammar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/methodobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/_backport/misc.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/models.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/modsupport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/moduleobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/msvc9_support.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/no-global-site-packages.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/node.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/ntlmpool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/ntpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/object.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/objimpl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/opcode.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/ordered_dict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/orig-prefix.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/os.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/osdefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/utils/outdated.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/package_index.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/palmos.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/parsetok.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/patchlevel.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/paths.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/pep425tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/pep425tags.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pgen.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pgenheaders.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/lockfile/pidlockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/pkginfo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/poolmanager.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/posixpath.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/ptcp154.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treewalkers/pulldom.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/punycode.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/trie/py.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/py26compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/py27compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/py31compat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/py_curses.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pyarena.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pycapsule.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pyconfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pyctype.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pydebug.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pyerrors.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pyexpat.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pyfpe.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pygetopt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pymacconfig.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pymactoolbox.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pymath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pymem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/contrib/pyopenssl.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pyport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pystate.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pystore.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pystrcmp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pystrtod.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pythonrun.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/pythread.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/quopri_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/rangeobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/raw_unicode_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/re-vendor.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/re.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/register.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/req/req_file.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/req/req_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/req/req_set.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/req/req_uninstall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/request.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/resources.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/response.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/retry.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/retrying.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/rot_13.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/rotate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/sandbox.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/sanitizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/saveopts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcharsetprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/sbcsgroupprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/scripts.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/sdist.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/search.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/sessions.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/setobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/setopt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystore/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/complex-dist/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/headers.dist/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/simple.dist/setup.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/shift_jis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/shift_jis_2004.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/shift_jisx0213.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/show.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/site-patch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/packages/six.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/sjisprober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/sliceobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/packaging/specifiers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/progress/spinner.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/sre.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/sre_compile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/sre_constants.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/sre_parse.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/ssl_.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/ssl_support.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/stat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/status_codes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/string_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/stringobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/structmember.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/structseq.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/structures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/vcs/subversion.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/symtable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/sysmodule.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_basic.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_install.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_keys.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_paths.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_ranking.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_signatures.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_tagopt.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_tool.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/test/test_wheelfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystoreapp/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/timefuncs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/timeout.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/tis_620.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/token.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/tokenizer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip-7.1.2.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools-18.2.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel-0.24.0.dist-info/top_level.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/traceback.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/tupleobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/types.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/ucnhash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/utils/ui.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/undefined.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/unicode_escape.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/unicode_internal.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/unicode_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/unicodeobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/uninstall.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/universaldetector.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/command/upload_docs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/urllib3/util/url.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystore/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystoreapp/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/packages/chardet/utf8prober.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_16.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_16_be.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_16_le.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_32_be.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_32_le.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_7.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_8.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/utf_8_sig.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/util.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/requests/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/uu_codec.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/packaging/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/version.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/warnings.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/warnings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Include/weakrefobject.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/distlib/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/commands/wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/colorama/win32.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/setuptools/windows_support.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/wheel/wininst2wheel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/colorama/winterm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pystore/wsgi.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/Lib/encodings/zlib_codec.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pystoreapp/admin.py" afterPath="$PROJECT_DIR$/pystoreapp/admin.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pystoreapp/urls.py" afterPath="$PROJECT_DIR$/pystoreapp/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pystoreapp/models.py" afterPath="$PROJECT_DIR$/pystoreapp/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pystoreapp/views.py" afterPath="$PROJECT_DIR$/pystoreapp/views.py" />
     </list>
     <ignored path="pystore.iws" />
@@ -31,24 +637,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pystoreapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1649">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.45226917" vertical-offset="0" max-vertical-offset="1649">
+              <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="admin.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pystoreapp/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.26984128" vertical-offset="0" max-vertical-offset="630">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="272">
+              <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -68,8 +672,8 @@
       <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pystoreapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="12" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+              <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
               <folding>
                 <element signature="e#0#59#0" expanded="true" />
               </folding>
@@ -90,9 +694,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/pystoreapp/views.py" />
         <option value="$PROJECT_DIR$/pystoreapp/urls.py" />
+        <option value="$PROJECT_DIR$/pystoreapp/views.py" />
         <option value="$PROJECT_DIR$/pystoreapp/admin.py" />
+        <option value="$PROJECT_DIR$/pystoreapp/models.py" />
       </list>
     </option>
   </component>
@@ -102,9 +707,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="654" />
-    <option name="height" value="767" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -175,6 +781,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="pystoreapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pystore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pystore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="pystore" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -201,14 +825,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="654" height="767" extended-state="0" />
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -255,8 +879,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pystoreapp/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           <folding>
             <element signature="e#0#59#0" expanded="true" />
           </folding>
@@ -273,21 +897,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pystoreapp/models.py">
+    <entry file="file://$PROJECT_DIR$/pystoreapp/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="1649">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="639">
+          <caret line="0" column="32" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pystoreapp/admin.py">
+    <entry file="file://$PROJECT_DIR$/pystoreapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26984128" vertical-offset="0" max-vertical-offset="630">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.45226917" vertical-offset="0" max-vertical-offset="1649">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>

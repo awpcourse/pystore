@@ -14,8 +14,8 @@ class UserProfile(models.Model):
 
     birthdate = models.DateTimeField()
     gender = models.CharField(max_length=1, choices=GENDER, default=MALE)
-    status = models.IntegerField()
-    account_type = models.IntegerField()
+    # status = models.IntegerField()
+    # account_type = models.IntegerField()
     # hash_user = models.CharField(max_length=255)
     # last_reset_request = models.DateTimeField()
     created = models.DateTimeField(auto_now_add=True)

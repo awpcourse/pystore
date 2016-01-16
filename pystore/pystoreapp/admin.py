@@ -1,5 +1,4 @@
 from django.contrib import admin
-
 from pystoreapp import models
 
 admin.site.register(models.Order)

@@ -10,7 +10,10 @@ def homeView(request):
     if request.method == 'GET':
         nume_var = "Mama are mere"
         context = {'nume' : nume_var}
-        return render(request, 'login.html', context)
+        return render(request, 'index.html', context)
+
+
+
 
 
 
