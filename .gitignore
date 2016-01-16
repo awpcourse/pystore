@@ -1,0 +1,10 @@
+
+*.pyc
+
+*.pyc
+
+*.pyc
+
+pystore/db.sqlite3
+
+.idea/workspace.xml
