@@ -5,44 +5,32 @@ from django.shortcuts import render, redirect
 from django.views.generic.list import ListView
 from django.views.generic.edit import UpdateView, DeleteView
 
-from pystoreapp.models import UserProfile
-from pystoreapp.forms import UserLoginForm
+from pystoreapp.models import Product
 
 def home(request):
     if request.method == 'GET':
-        form = UserLoginForm()
-        context = {
-            'form': form,
-        }
+        nume_var = "Mama are mere"
+        context = {'nume' : nume_var}
         return render(request, 'index.html', context)
 
+
+def product_view(request, pk):
+    if request.method == 'GET':
+        product = Product.objects.get(pk=pk)
+        context = {'product' : product}
+        return render(request, 'product_view.html', context)
     elif request.method == 'POST':
-        form = UserLoginForm(request.POST)
-        username = request.POST['username']
-        password = request.POST['password']
-        user = authenticate(username=username, password=password)
-        if user is None:
-            context = {
-                'form': form,
-                'message': 'Wrong username or password!'
-            }
+        #cart = request.session['cart'];
+
+        #request.session['card'] = dict()
+        if 'cart' in request.session:
+            if(pk in request.session['cart']):
+                request.session['cart'][pk.encode('ascii', 'ignore')] = request.session['cart'][pk.encode('ascii', 'ignore')] + 1
+            else:
+                request.session['cart'][pk.encode('ascii', 'ignore')] = 1
         else:
-            login(request, user)
+            request.session['cart'] = dict([(pk.encode('ascii', 'ignore'), 1)])
 
-        return redirect('index')
-
-@login_required
-def profileDetails(request, pk):
-    profile = UserProfile.objects.get(pk=pk)
-    return redirect('profile', pk=pk)
-
-
-
-
-
-
-
-
-
-
-
+        product = Product.objects.get(pk=pk)
+        context = {'product' : product, 'cart': request.session['cart']}
+        return render(request, 'product_view.html', context)

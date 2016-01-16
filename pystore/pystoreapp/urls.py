@@ -12,5 +12,6 @@ urlpatterns = [
     # url(r'^register/$', '', name='register'),
     # url(r'^logout/$', '' , name='logout'),
     # url(r'^userpanel/(?P<pk>\d+)$', '' , name='userpanel'),
+    url(r'^product/(?P<pk>\d+)/$', views.product_view, name='product_view'),
 
 ]
