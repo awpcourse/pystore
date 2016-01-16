@@ -17,6 +17,9 @@
             <th>
                 Total Price
             </th>
+            <th>
+
+            </th>
         </tr>
         </thead>
 
@@ -34,6 +37,9 @@
                     </td>
                     <td>
                         {{ product.products_total }}
+                    </td>
+                    <td>
+                        <a href="{% url 'remove_cart' product.id %}">&times;</a>
                     </td>
                 </tr>
             {% endfor %}

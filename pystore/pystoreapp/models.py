@@ -66,6 +66,9 @@ class Product(models.Model):
     def __unicode__(self):
         return u'{}'.format(self.id)
 
+    def getPrice(self):
+        return self.price
+
 
 class OrderedProduct(models.Model):
 

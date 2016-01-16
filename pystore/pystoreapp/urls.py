@@ -17,6 +17,7 @@ urlpatterns = [
     url(r'^product/(?P<pk>\d+)/$', views.product_view, name='product_view'),
     url(r'^checkout/$', views.checkout, name='checkout'),
     url(r'^cart/$', views.cart_view, name='cart'),
+    url(r'^remove_cart/(?P<pk>\d+)/$', views.remove_cart, name='remove_cart'),
 
 
 ]

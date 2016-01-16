@@ -13,8 +13,12 @@
     <h2> My orders</h2>
     <hr/>
 
-
-
+    {% for order in orders %}
+        <h5>#{{ order.pk }}</h5>
+        <ul>
+            <li>Total: {{ order.total }}</li>
+        </ul>
+    {% endfor %}
 
 
 

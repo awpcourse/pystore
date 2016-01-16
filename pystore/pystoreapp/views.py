@@ -40,8 +40,23 @@ def home(request):
 @login_required
 def profileDetails(request, pk):
     profile = UserProfile.objects.get(pk=pk)
+
+    orders = Order.objects.filter(user=UserProfile.objects.get(user=request.user))
+    order_products = {}
+
+    # for order in orders:
+    #     products_assoc = OrderedProduct.objects.filter(order=order)
+    #
+    #     for assoc in products_assoc:
+    #         #product = Product.objects.get(pk=assoc.product)
+    #         order_products[order.id] += 0
+
+
+
+
     context = {
-        'profile': profile
+        'profile': profile,
+        'orders': orders,
 
     }
     return render(request, 'profile.html', context)
@@ -77,6 +92,9 @@ def product_view(request, pk):
 def checkout(request):
     # if not request.session.total:
     #     redirect('cart')
+    if not request.user.is_authenticated():
+        return redirect('index')
+
     if 'cart' in request.session:
         if request.method == 'POST':
             shipping_address = request.POST['shipping_address']
@@ -129,3 +147,10 @@ def cart_view(request):
             'ok': False,
         }
     return render(request, 'cart.html', context)
+
+def remove_cart(request, pk):
+    if 'cart' in request.session:
+        if pk in list(request.session['cart'].keys()):
+            request.session['cart'].pop(pk, None)
+
+    return redirect('cart')
