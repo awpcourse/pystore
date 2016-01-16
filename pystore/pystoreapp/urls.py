@@ -4,6 +4,7 @@ from pystoreapp import views
 
 urlpatterns = [
     url(r'^$', views.home, name='index'),
+    url(r'^logout/$', views.logout_view, name='logout'),
     # url(r'^cart/$', '', name='cart'),
     # url(r'^products/$', '', name='products'),
     # url(r'^products/(?P<pk>\d+)$', '', name='products_details'),

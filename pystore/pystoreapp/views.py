@@ -37,6 +37,11 @@ def profileDetails(request, pk):
     return redirect('profile', pk=pk)
 
 
+def logout_view(request):
+    logout(request)
+    return redirect('index')
+
+
 
 
 
