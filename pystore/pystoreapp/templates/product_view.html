@@ -2,7 +2,7 @@
 
 {% block content %}
 
-{{ product.name }}
+<h2>{{ product.name }}</h2>
 
 {{ product.description }}
 
@@ -13,5 +13,5 @@
         <input type="submit" value="Add To Card" />
 
     </form>
-
+{{ request.session.cart }}
 {% endblock %}

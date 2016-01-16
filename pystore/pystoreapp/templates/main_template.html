@@ -36,7 +36,7 @@
                 <li>
 
                     {% if user.is_authenticated %}
-                        <a href="{% url 'profile' {{user.id}} %}"> {{ user.first_name}} &nbsp; {{user.last_name}}  </span>
+                        <a href="{% url 'profile' user.id %}"> {{ user.first_name}} &nbsp; {{user.last_name}}  </span>
                     {% else %}
                         <a href="#loginModal" data-toggle="modal" data-target="#loginModal"><span class="glyphicon glyphicon-log-in">Login</span></a>
                     {% endif %}

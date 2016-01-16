@@ -21,16 +21,23 @@ def product_view(request, pk):
         return render(request, 'product_view.html', context)
     elif request.method == 'POST':
         #cart = request.session['cart'];
-
+        # import pdb; pdb.set_trace()
         #request.session['card'] = dict()
         if 'cart' in request.session:
-            if(pk in request.session['cart']):
-                request.session['cart'][pk.encode('ascii', 'ignore')] = request.session['cart'][pk.encode('ascii', 'ignore')] + 1
+            if pk in request.session['cart']:
+                print "+1"
+
+                request.session['cart'][pk] += 1
+                print request.session['cart'][pk]
             else:
-                request.session['cart'][pk.encode('ascii', 'ignore')] = 1
+                print "new"
+                request.session['cart'][pk] = 1
         else:
-            request.session['cart'] = dict([(pk.encode('ascii', 'ignore'), 1)])
+            request.session['cart'] = {
+                pk: 1,
+            }
+            print "new_cart"
 
         product = Product.objects.get(pk=pk)
-        context = {'product' : product, 'cart': request.session['cart']}
+        context = {'product' : product}
         return render(request, 'product_view.html', context)
