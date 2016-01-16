@@ -1,0 +1,28 @@
+{% load staticfiles %}
+
+
+<html>
+  <head>
+    <title> Pystore </title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
+
+    <!-- Content media zone(css, images, fonts, etc. ) -->
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="{% static 'main.css' %}"/>
+
+
+  </head>
+  <body>
+
+    <p> S </p>
+
+    {% block login%}
+    {% endblock %}
+
+    <!-- Scripts zone -->
+
+    <!-- End script zone -->
+  </body>
+</html>
