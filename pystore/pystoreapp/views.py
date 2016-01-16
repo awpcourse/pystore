@@ -80,7 +80,7 @@ def checkout(request):
     if request.method == 'POST':
         shipping_address = request.POST['shipping_address']
         billing_address = request.POST['billing_address']
-        order = Order(user=UserProfile.objects.get(pk=request.user.id), shipping_address=shipping_address, billing_address=billing_address, status=0, total=0.0)
+        order = Order(user=UserProfile.objects.get(user=request.user), shipping_address=shipping_address, billing_address=billing_address, status=0, total=float(request.session['total']))
         order.save()
 
     context = {'page_title': 'Checkout'}
